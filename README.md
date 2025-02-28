@@ -1,4 +1,4 @@
-# assalamoalikom
-this is nohing, trying to learn creating repository
+# Learning Git
+This is nothing,but trying to learn creating repository.
 <br>
-author: naeemullah
+author: Human
